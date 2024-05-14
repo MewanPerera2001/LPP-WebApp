@@ -1,0 +1,2 @@
+![image](https://github.com/MewanPerera2001/LPP-WebApp/assets/142411582/3b8adb88-f1a2-42bb-861a-7b0ce99e8a77)
+This user-friendly web application simplifies the process of estimating laptop prices. The clean and responsive design (built with HTML, CSS, and JavaScript) guides users through inputting relevant specifications.  A Python-based machine learning model works behind the scenes to deliver accurate price predictions.
